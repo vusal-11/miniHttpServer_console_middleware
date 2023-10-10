@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "miniHttpServer_console_middleware/1.0.0": {
+        "runtime": {
+          "miniHttpServer_console_middleware.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "miniHttpServer_console_middleware/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

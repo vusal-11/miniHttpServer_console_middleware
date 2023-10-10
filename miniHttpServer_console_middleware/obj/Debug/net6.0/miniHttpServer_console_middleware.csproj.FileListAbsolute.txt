@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\bin\Debug\net6.0\miniHttpServer_console_middleware.exe
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\bin\Debug\net6.0\miniHttpServer_console_middleware.deps.json
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\bin\Debug\net6.0\miniHttpServer_console_middleware.runtimeconfig.json
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\bin\Debug\net6.0\miniHttpServer_console_middleware.dll
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\bin\Debug\net6.0\miniHttpServer_console_middleware.pdb
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\obj\Debug\net6.0\miniHttpServer_console_middleware.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\obj\Debug\net6.0\miniHttpServer_console_middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\obj\Debug\net6.0\miniHttpServer_console_middleware.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\obj\Debug\net6.0\miniHttpServer_console_middleware.AssemblyInfo.cs
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\obj\Debug\net6.0\miniHttpServer_console_middleware.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\obj\Debug\net6.0\miniHttpServer_console_middleware.dll
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\obj\Debug\net6.0\refint\miniHttpServer_console_middleware.dll
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\obj\Debug\net6.0\miniHttpServer_console_middleware.pdb
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\obj\Debug\net6.0\miniHttpServer_console_middleware.genruntimeconfig.cache
+C:\Users\user\source\repos\miniHttpServer_console_middleware\miniHttpServer_console_middleware\obj\Debug\net6.0\ref\miniHttpServer_console_middleware.dll
